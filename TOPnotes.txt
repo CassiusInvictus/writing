@@ -1,0 +1,9 @@
+html is structure
+css is how it looks
+javascript is how it functions
+jQuery - most popular javascript library
+
+browser turns these into a webpage - not the server
+
+what is front-end web development?
+A mix of programming and layout that powers the visuals and interactions of the web
