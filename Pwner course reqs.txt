@@ -1,0 +1,36 @@
+QBittorrent
+Aircrack-ng
+Wicd (When booted ignore errors. Just needed to get airmon-ng to find the wireless card)
+build-essential
+libssl-dev
+Reaver 1.4 (wps cracker)
+libpcap-dev
+sqlite3
+libsqlite3-dev
+libpcap0.8-dev
+Subversion
+
+A non-exhaustive list of topics to be taught includes:
+• Bypassing WLAN Authentication - Shared Key, MAC Filtering, Hidden SSIDs
+• Cracking WLAN Encryption - WEP, WPA/WPA2 Personal and Enterprise, Understanding encryption based flaws (WEP,TKIP,CCMP)
+• Attacking the WLAN Infrastructure - Rogues Devices, Evil Twins, DoS Attacks, MITM, Wi-Fi Protected Setup
+• Advanced Enterprise Attacks - 802.1x, EAP, LEAP, PEAP, EAP-TTLS
+• Attacking the Wireless Client - Honeypots and Hotspot attacks, Caffe-Latte, Hirte, Ad-Hoc Networks and Viral SSIDs, WiFishing
+• Breaking into the Client - Metasploit, SET, Social Engineering
+• Enterprise Wi-Fi Worms, Backdoors and Botnet
+
+
+• Laptop with at least 3 GB RAM
+• Kali Linux installed in Virtualbox with Windows / Linux / Mac as the Host
+• 1 working USB 2.0 port on your laptop (important as the Wi-Fi card only works with 2.0 ports)
+• Admin / Root on the laptop so you can install software
+
+WHAT STUDENTS WILL BE PROVIDED WITH
+
+• Full course content slides
+• Over 10 hours of HD quality video lectures with hands-on demonstrations
+• Alfa Networks Wi-Fi Card
+• Backtrack 5 Wireless Penetration Testing Beginners Guide
+
+wifikill faceniff droidsheep
+

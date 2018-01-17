@@ -1,0 +1,29 @@
+week 6 cybr investigations and forensics - complete, discussion board finished
+week 6 operating systems and mobile development - discussion board previous weeks finished
+week 6 assessments and audits - discussion board previous weeks finished
+https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/csaguide.v3.0.pdf
+
+
+misc. thoughts - 
+onedrive is fully visible to MSFT - available to LE (this is in TOS). addl, MSFT actively looks at onedrive data daily
+icloud is the weakness to apple's system - readily decrypted and available to LE - local computers and iphones is the strong point. If you avoid icloud you are golden.
+
+emails give away more information than any other communication method - even when encrypted. avoid if possible, stick to messaging apps that allow for data transfer (i.e. Signal).
+
+threat model for criminals is vastly different from threat model for state actors
+
+microsoft and google enter into agreements with host countries in order to operate there. we don't know the entirety of these agreements, but the ones we do know about (china and MSFT windows10, and china and google search, for example) aren't encouraging. this is another reason why we choose firefox
+
+how does firefox make money? search engine arrangements. billions from google, bing and others to incorporate those search engines into the browser. (why does google spend so much money doing this? because they are an advertising company. if they don't get data, they can't sell it - they are spending money to make money, and from what I can find, the billions are invested well). 
+
+There are several levels of complexity in the issue of privacy and security from the legal and law enforcement aspect. For example: at what level does responsibility for your privacy lies within a private company? To what extent does the US government have to extend protection to the citizen from foreign attack? Where does state laws that are more severe than federal laws take precedence in cyberspace? If your privacy is electronically invaded via IoT from another country, can you prosecute the digital peeping tom overseas? Cyberspace is a free for all wildland right now because there is no alignment of international law with internal laws of the different countries. In China, there is no privacy, and they want to keep it that way. In April of last year, after years of negotiation, the first international privacy agreement was rectified. It took the merging of laws and currency to achieve this. Of course, there is the BREXIT. So, what we must understand is that unless the citizenry pursues their rights for privacy very aggressively we are going to be at the mercy of the dark forces on the internet and without the protection of government or private industry (unless someone figures out a way to monetize it).
+The Firehawk
+Reference: http://fortune.com/2016/04/14/eu-parliament-gdpr/
+
+forensic bridge - soft reset
+
+CERBERUS
+
+asset ID vs. threat analysis
+
+playonlinux - adobe acrobat reader

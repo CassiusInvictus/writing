@@ -1,0 +1,24 @@
+UserBenchmarks: Game 17%, Desk 44%, Work 24%
+CPU: Intel Core i5 650 - 45.6%
+GPU: Nvidia GTX 650 - 11.3%
+SSD:  HFS250G32TND-N1A2A 250GB - 53.2%
+RAM: Kingston KP223C-ELD 4x2GB - 32.8%
+MBD: Dell Studio XPS 8100
+
+with radeon installed 
+UserBenchmarks: Game 42%, Desk 44%, Work 26%
+CPU: Intel Core i5 650 - 44.7%
+GPU: AMD RX 480 - 56.4%
+SSD:  HFS250G32TND-N1A2A 250GB - 53.4%
+RAM: Kingston KP223C-ELD 4x2GB - 32.6%
+MBD: Dell Studio XPS 8100
+
+
+post fresh build
+
+UserBenchmarks: Game 56%, Desk 71%, Work 41%
+CPU: Intel Core i3-7100 - 70.3%
+GPU: AMD RX 480 - 58.4%
+SSD:  HFS250G32TND-N1A2A 250GB - 89.6%
+RAM: Kingston HyperX 2133 C14 2x8GB - 77%
+MBD: MSI B250M PRO-VD (MS-7A74)
