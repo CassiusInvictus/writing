@@ -17,3 +17,8 @@ git rm '*.txt' - removes all .txt documents. removes all locally, and will also 
 git merge [branch name] - merges any changes you made to experimental branch into master branch
 git branch -d [branch name] - deletes branch
 git push - pushes everything to remote
+tl;dr?
+git status
+git add [filename]
+git commit
+git push
