@@ -1,0 +1,19 @@
+git init - create a git repo in current directory
+git status - show git status
+git add [filename] - adds files in local repo and stages for commit
+git add . - adds all files in present directory and stages for commit
+git commit -m "Message here describing what you're doing" - Stores any changes we've made.
+git add '*.txt' - supports wildcards. this adds all text documents
+git log - a journal that remembers all changes
+git remote add origin [url] - adds a remote repository. you must create this repo on github first.
+git push -u origin master - this pushes the local repo to the remote repo (github). This is the beginning of true version control. the -u tells git to remember parameters.
+git pull origin master - check for changes on GitHub, pull down any new changes
+git diff HEAD - see the changes that have been made after a git pull
+git branch [name] - creates a copy so you can make changes and these aren't reflected in master
+git branch - list all branches
+git checkout [branchname] - switch branches
+git rm '*.txt' - removes all .txt documents. removes all locally, and will also stage removal of files
+*if doing something like the above command, do [git status] to see the changes you are about to make before executing*
+git merge [branch name] - merges any changes you made to experimental branch into master branch
+git branch -d [branch name] - deletes branch
+git push - pushes everything to remote
